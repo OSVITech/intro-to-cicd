@@ -20,7 +20,7 @@ jobs:
         run: echo "Replace this with the test code"
 
       - name: Install dependencies
-        run: npm Install
+        run: npm install
       - name: Run tests
         run: npm test
       
